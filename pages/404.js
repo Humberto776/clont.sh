@@ -13,6 +13,7 @@ export default function Custom404() {
           alignItems: "center",
           justifyContent: "center",
         }}
+        
       >
         <div>
           <h1
